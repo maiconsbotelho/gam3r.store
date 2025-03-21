@@ -14,6 +14,7 @@ model Produto {
   descricao   String
   marca       String
   modelo      String
+  categoria   String
   imagem      String
   nota        Float
   videoReview String
